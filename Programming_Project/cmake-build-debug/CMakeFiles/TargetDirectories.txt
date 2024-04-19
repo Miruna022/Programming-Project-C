@@ -1,0 +1,3 @@
+C:/Users/Miruna/CLionProjects/Programming_Project/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Miruna/CLionProjects/Programming_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Miruna/CLionProjects/Programming_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
